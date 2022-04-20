@@ -1,11 +1,11 @@
 .jumbotron{
-    background-color: yellow;
+    background-color: greenyellow;
     color:black;
     margin-top: 50px;
 }
 footer{
     padding: 10px 10px 0 10px;
-    background-color: yellow;
+    background-color: greenyellow;
     margin-bottom:0px;
     margin-top: 10px;
 }
