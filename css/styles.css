@@ -1,12 +1,12 @@
 .jumbotron {
-  background-color: #fffa19;
+  background-color:#FAC0BD; /*color del encabezado de la pagina*/
   color: black;
   margin-top: 50px;
   margin-bottom: 0px; }
 
 footer {
   padding: 10px 10px 0 10px;
-  background-color: #2ac754;
+  background-color:#FAC0BD;  /*color del pie de pagina*/
   margin-top: 10px;
   margin-bottom: 0px; }
 
